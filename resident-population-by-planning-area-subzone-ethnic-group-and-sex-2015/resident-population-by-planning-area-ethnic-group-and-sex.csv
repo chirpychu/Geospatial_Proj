@@ -1,0 +1,627 @@
+year,level_1,level_2,level_3,value
+2015,Total,Total,"Total",3902690
+2015,Total,Total,"Ang Mo Kio- Total",174770
+2015,Total,Total,"Bedok- Total",289750
+2015,Total,Total,"Bishan- Total",90700
+2015,Total,Total,"Boon Lay- Total",30
+2015,Total,Total,"Bukit Batok- Total",139270
+2015,Total,Total,"Bukit Merah- Total",155840
+2015,Total,Total,"Bukit Panjang- Total",139030
+2015,Total,Total,"Bukit Timah- Total",74470
+2015,Total,Total,"Central Water Catchment- Total",10
+2015,Total,Total,"Changi- Total",2530
+2015,Total,Total,"Choa Chu Kang- Total",174330
+2015,Total,Total,"Clementi- Total",91630
+2015,Total,Total,"Downtown Core- Total",3720
+2015,Total,Total,"Geylang- Total",116960
+2015,Total,Total,"Hougang- Total",222310
+2015,Total,Total,"Jurong East- Total",84980
+2015,Total,Total,"Jurong West- Total",272660
+2015,Total,Total,"Kallang- Total",101210
+2015,Total,Total,"Lim Chu Kang- Total",90
+2015,Total,Total,"Mandai- Total",2120
+2015,Total,Total,"Marine Parade- Total",48730
+2015,Total,Total,"Museum- Total",380
+2015,Total,Total,"Newton- Total",6920
+2015,Total,Total,"North-Eastern Islands- Total",60
+2015,Total,Total,"Novena- Total",47990
+2015,Total,Total,"Orchard- Total",920
+2015,Total,Total,"Outram- Total",22080
+2015,Total,Total,"Pasir Ris- Total",139890
+2015,Total,Total,"Paya Lebar- Total",40
+2015,Total,Total,"Pioneer- Total",100
+2015,Total,Total,"Punggol- Total",109750
+2015,Total,Total,"Queenstown- Total",98050
+2015,Total,Total,"River Valley- Total",9190
+2015,Total,Total,"Rochor- Total",14590
+2015,Total,Total,"Seletar- Total",270
+2015,Total,Total,"Sembawang- Total",76530
+2015,Total,Total,"Sengkang- Total",206680
+2015,Total,Total,"Serangoon- Total",120670
+2015,Total,Total,"Singapore River- Total",2720
+2015,Total,Total,"Southern Islands- Total",1480
+2015,Total,Total,"Sungei Kadut- Total",850
+2015,Total,Total,"Tampines- Total",261230
+2015,Total,Total,"Tanglin- Total",19000
+2015,Total,Total,"Tengah- Total",10
+2015,Total,Total,"Toa Payoh- Total",124940
+2015,Total,Total,"Tuas- Total",70
+2015,Total,Total,"Western Water Catchment- Total",900
+2015,Total,Total,"Woodlands- Total",250290
+2015,Total,Total,"Yishun- Total",201970
+2015,Total,Males,"Total",1916630
+2015,Total,Males,"Ang Mo Kio- Total",84220
+2015,Total,Males,"Bedok- Total",141220
+2015,Total,Males,"Bishan- Total",44110
+2015,Total,Males,"Bukit Batok- Total",68650
+2015,Total,Males,"Bukit Merah- Total",75450
+2015,Total,Males,"Bukit Panjang- Total",69160
+2015,Total,Males,"Bukit Timah- Total",34660
+2015,Total,Males,"Changi- Total",1300
+2015,Total,Males,"Choa Chu Kang- Total",86990
+2015,Total,Males,"Clementi- Total",43870
+2015,Total,Males,"Downtown Core- Total",1860
+2015,Total,Males,"Geylang- Total",58090
+2015,Total,Males,"Hougang- Total",109560
+2015,Total,Males,"Jurong East- Total",42270
+2015,Total,Males,"Jurong West- Total",137560
+2015,Total,Males,"Kallang- Total",50410
+2015,Total,Males,"Mandai- Total",1000
+2015,Total,Males,"Marine Parade- Total",22970
+2015,Total,Males,"Museum- Total",190
+2015,Total,Males,"Newton- Total",3240
+2015,Total,Males,"Novena- Total",23160
+2015,Total,Males,"Orchard- Total",430
+2015,Total,Males,"Outram- Total",11100
+2015,Total,Males,"Pasir Ris- Total",69150
+2015,Total,Males,"Punggol- Total",54100
+2015,Total,Males,"Queenstown- Total",46230
+2015,Total,Males,"River Valley- Total",4260
+2015,Total,Males,"Rochor- Total",7410
+2015,Total,Males,"Seletar- Total",140
+2015,Total,Males,"Sembawang- Total",37910
+2015,Total,Males,"Sengkang- Total",101790
+2015,Total,Males,"Serangoon- Total",58380
+2015,Total,Males,"Singapore River- Total",1310
+2015,Total,Males,"Southern Islands- Total",720
+2015,Total,Males,"Sungei Kadut- Total",430
+2015,Total,Males,"Tampines- Total",128200
+2015,Total,Males,"Tanglin- Total",8770
+2015,Total,Males,"Toa Payoh- Total",59840
+2015,Total,Males,"Western Water Catchment- Total",400
+2015,Total,Males,"Woodlands- Total",125900
+2015,Total,Males,"Yishun- Total",99990
+2015,Total,Females,"Total",1986060
+2015,Total,Females,"Ang Mo Kio- Total",90550
+2015,Total,Females,"Bedok- Total",148530
+2015,Total,Females,"Bishan- Total",46590
+2015,Total,Females,"Bukit Batok- Total",70610
+2015,Total,Females,"Bukit Merah- Total",80390
+2015,Total,Females,"Bukit Panjang- Total",69870
+2015,Total,Females,"Bukit Timah- Total",39810
+2015,Total,Females,"Changi- Total",1230
+2015,Total,Females,"Choa Chu Kang- Total",87340
+2015,Total,Females,"Clementi- Total",47760
+2015,Total,Females,"Downtown Core- Total",1860
+2015,Total,Females,"Geylang- Total",58870
+2015,Total,Females,"Hougang- Total",112750
+2015,Total,Females,"Jurong East- Total",42710
+2015,Total,Females,"Jurong West- Total",135110
+2015,Total,Females,"Kallang- Total",50800
+2015,Total,Females,"Mandai- Total",1120
+2015,Total,Females,"Marine Parade- Total",25770
+2015,Total,Females,"Museum- Total",190
+2015,Total,Females,"Newton- Total",3680
+2015,Total,Females,"Novena- Total",24830
+2015,Total,Females,"Orchard- Total",500
+2015,Total,Females,"Outram- Total",10980
+2015,Total,Females,"Pasir Ris- Total",70740
+2015,Total,Females,"Punggol- Total",55650
+2015,Total,Females,"Queenstown- Total",51820
+2015,Total,Females,"River Valley- Total",4930
+2015,Total,Females,"Rochor- Total",7180
+2015,Total,Females,"Seletar- Total",140
+2015,Total,Females,"Sembawang- Total",38620
+2015,Total,Females,"Sengkang- Total",104890
+2015,Total,Females,"Serangoon- Total",62290
+2015,Total,Females,"Singapore River- Total",1410
+2015,Total,Females,"Southern Islands- Total",760
+2015,Total,Females,"Sungei Kadut- Total",420
+2015,Total,Females,"Tampines- Total",133030
+2015,Total,Females,"Tanglin- Total",10230
+2015,Total,Females,"Toa Payoh- Total",65100
+2015,Total,Females,"Western Water Catchment- Total",500
+2015,Total,Females,"Woodlands- Total",124380
+2015,Total,Females,"Yishun- Total",101980
+2015,Chinese,Total,"Total",2900010
+2015,Chinese,Total,"Ang Mo Kio- Total",143290
+2015,Chinese,Total,"Bedok- Total",208880
+2015,Chinese,Total,"Bishan- Total",77220
+2015,Chinese,Total,"Bukit Batok- Total",102080
+2015,Chinese,Total,"Bukit Merah- Total",122610
+2015,Chinese,Total,"Bukit Panjang- Total",103280
+2015,Chinese,Total,"Bukit Timah- Total",64150
+2015,Chinese,Total,"Changi- Total",1200
+2015,Chinese,Total,"Choa Chu Kang- Total",123450
+2015,Chinese,Total,"Clementi- Total",70700
+2015,Chinese,Total,"Downtown Core- Total",2970
+2015,Chinese,Total,"Geylang- Total",88060
+2015,Chinese,Total,"Hougang- Total",181700
+2015,Chinese,Total,"Jurong East- Total",60130
+2015,Chinese,Total,"Jurong West- Total",190240
+2015,Chinese,Total,"Kallang- Total",75800
+2015,Chinese,Total,"Mandai- Total",1710
+2015,Chinese,Total,"Marine Parade- Total",36620
+2015,Chinese,Total,"Museum- Total",220
+2015,Chinese,Total,"Newton- Total",4870
+2015,Chinese,Total,"Novena- Total",38840
+2015,Chinese,Total,"Orchard- Total",620
+2015,Chinese,Total,"Outram- Total",18020
+2015,Chinese,Total,"Pasir Ris- Total",93910
+2015,Chinese,Total,"Punggol- Total",84890
+2015,Chinese,Total,"Queenstown- Total",77390
+2015,Chinese,Total,"River Valley- Total",6440
+2015,Chinese,Total,"Rochor- Total",10470
+2015,Chinese,Total,"Seletar- Total",170
+2015,Chinese,Total,"Sembawang- Total",55690
+2015,Chinese,Total,"Sengkang- Total",160590
+2015,Chinese,Total,"Serangoon- Total",101460
+2015,Chinese,Total,"Singapore River- Total",1870
+2015,Chinese,Total,"Southern Islands- Total",810
+2015,Chinese,Total,"Sungei Kadut- Total",710
+2015,Chinese,Total,"Tampines- Total",175470
+2015,Chinese,Total,"Tanglin- Total",14160
+2015,Chinese,Total,"Toa Payoh- Total",102230
+2015,Chinese,Total,"Western Water Catchment- Total",730
+2015,Chinese,Total,"Woodlands- Total",153780
+2015,Chinese,Total,"Yishun- Total",142300
+2015,Chinese,Males,"Total",1415300
+2015,Chinese,Males,"Ang Mo Kio- Total",68860
+2015,Chinese,Males,"Bedok- Total",101010
+2015,Chinese,Males,"Bishan- Total",37480
+2015,Chinese,Males,"Bukit Batok- Total",50040
+2015,Chinese,Males,"Bukit Merah- Total",58870
+2015,Chinese,Males,"Bukit Panjang- Total",51200
+2015,Chinese,Males,"Bukit Timah- Total",29740
+2015,Chinese,Males,"Changi- Total",580
+2015,Chinese,Males,"Choa Chu Kang- Total",61380
+2015,Chinese,Males,"Clementi- Total",33530
+2015,Chinese,Males,"Downtown Core- Total",1440
+2015,Chinese,Males,"Geylang- Total",43550
+2015,Chinese,Males,"Hougang- Total",89240
+2015,Chinese,Males,"Jurong East- Total",29770
+2015,Chinese,Males,"Jurong West- Total",95510
+2015,Chinese,Males,"Kallang- Total",37400
+2015,Chinese,Males,"Mandai- Total",810
+2015,Chinese,Males,"Marine Parade- Total",17070
+2015,Chinese,Males,"Museum- Total",100
+2015,Chinese,Males,"Newton- Total",2200
+2015,Chinese,Males,"Novena- Total",18640
+2015,Chinese,Males,"Orchard- Total",270
+2015,Chinese,Males,"Outram- Total",8960
+2015,Chinese,Males,"Pasir Ris- Total",46160
+2015,Chinese,Males,"Punggol- Total",41890
+2015,Chinese,Males,"Queenstown- Total",36100
+2015,Chinese,Males,"River Valley- Total",2940
+2015,Chinese,Males,"Rochor- Total",5100
+2015,Chinese,Males,"Seletar- Total",80
+2015,Chinese,Males,"Sembawang- Total",27450
+2015,Chinese,Males,"Sengkang- Total",79070
+2015,Chinese,Males,"Serangoon- Total",48880
+2015,Chinese,Males,"Singapore River- Total",840
+2015,Chinese,Males,"Southern Islands- Total",360
+2015,Chinese,Males,"Sungei Kadut- Total",360
+2015,Chinese,Males,"Tampines- Total",85610
+2015,Chinese,Males,"Tanglin- Total",6410
+2015,Chinese,Males,"Toa Payoh- Total",48620
+2015,Chinese,Males,"Western Water Catchment- Total",320
+2015,Chinese,Males,"Woodlands- Total",77070
+2015,Chinese,Males,"Yishun- Total",70230
+2015,Chinese,Females,"Total",1484700
+2015,Chinese,Females,"Ang Mo Kio- Total",74430
+2015,Chinese,Females,"Bedok- Total",107870
+2015,Chinese,Females,"Bishan- Total",39740
+2015,Chinese,Females,"Bukit Batok- Total",52040
+2015,Chinese,Females,"Bukit Merah- Total",63740
+2015,Chinese,Females,"Bukit Panjang- Total",52080
+2015,Chinese,Females,"Bukit Timah- Total",34410
+2015,Chinese,Females,"Changi- Total",620
+2015,Chinese,Females,"Choa Chu Kang- Total",62070
+2015,Chinese,Females,"Clementi- Total",37170
+2015,Chinese,Females,"Downtown Core- Total",1530
+2015,Chinese,Females,"Geylang- Total",44510
+2015,Chinese,Females,"Hougang- Total",92460
+2015,Chinese,Females,"Jurong East- Total",30360
+2015,Chinese,Females,"Jurong West- Total",94740
+2015,Chinese,Females,"Kallang- Total",38390
+2015,Chinese,Females,"Mandai- Total",900
+2015,Chinese,Females,"Marine Parade- Total",19550
+2015,Chinese,Females,"Museum- Total",120
+2015,Chinese,Females,"Newton- Total",2670
+2015,Chinese,Females,"Novena- Total",20200
+2015,Chinese,Females,"Orchard- Total",350
+2015,Chinese,Females,"Outram- Total",9060
+2015,Chinese,Females,"Pasir Ris- Total",47750
+2015,Chinese,Females,"Punggol- Total",43010
+2015,Chinese,Females,"Queenstown- Total",41290
+2015,Chinese,Females,"River Valley- Total",3510
+2015,Chinese,Females,"Rochor- Total",5370
+2015,Chinese,Females,"Seletar- Total",90
+2015,Chinese,Females,"Sembawang- Total",28240
+2015,Chinese,Females,"Sengkang- Total",81520
+2015,Chinese,Females,"Serangoon- Total",52580
+2015,Chinese,Females,"Singapore River- Total",1030
+2015,Chinese,Females,"Southern Islands- Total",440
+2015,Chinese,Females,"Sungei Kadut- Total",350
+2015,Chinese,Females,"Tampines- Total",89860
+2015,Chinese,Females,"Tanglin- Total",7750
+2015,Chinese,Females,"Toa Payoh- Total",53610
+2015,Chinese,Females,"Western Water Catchment- Total",410
+2015,Chinese,Females,"Woodlands- Total",76710
+2015,Chinese,Females,"Yishun- Total",72060
+2015,Malays,Total,"Total",520920
+2015,Malays,Total,"Ang Mo Kio- Total",13060
+2015,Malays,Total,"Bedok- Total",43980
+2015,Malays,Total,"Bishan- Total",3760
+2015,Malays,Total,"Bukit Batok- Total",19570
+2015,Malays,Total,"Bukit Merah- Total",13400
+2015,Malays,Total,"Bukit Panjang- Total",22230
+2015,Malays,Total,"Bukit Timah- Total",760
+2015,Malays,Total,"Changi- Total",720
+2015,Malays,Total,"Choa Chu Kang- Total",29630
+2015,Malays,Total,"Clementi- Total",9950
+2015,Malays,Total,"Downtown Core- Total",40
+2015,Malays,Total,"Geylang- Total",15280
+2015,Malays,Total,"Hougang- Total",17650
+2015,Malays,Total,"Jurong East- Total",13740
+2015,Malays,Total,"Jurong West- Total",48630
+2015,Malays,Total,"Kallang- Total",7980
+2015,Malays,Total,"Mandai- Total",110
+2015,Malays,Total,"Marine Parade- Total",3510
+2015,Malays,Total,"Newton- Total",60
+2015,Malays,Total,"Novena- Total",2110
+2015,Malays,Total,"Orchard- Total",10
+2015,Malays,Total,"Outram- Total",1930
+2015,Malays,Total,"Pasir Ris- Total",28420
+2015,Malays,Total,"Punggol- Total",14480
+2015,Malays,Total,"Queenstown- Total",8720
+2015,Malays,Total,"River Valley- Total",90
+2015,Malays,Total,"Rochor- Total",640
+2015,Malays,Total,"Sembawang- Total",10320
+2015,Malays,Total,"Sengkang- Total",22580
+2015,Malays,Total,"Serangoon- Total",5170
+2015,Malays,Total,"Singapore River- Total",10
+2015,Malays,Total,"Southern Islands- Total",20
+2015,Malays,Total,"Tampines- Total",56010
+2015,Malays,Total,"Tanglin- Total",190
+2015,Malays,Total,"Toa Payoh- Total",9920
+2015,Malays,Total,"Woodlands- Total",62310
+2015,Malays,Total,"Yishun- Total",33940
+2015,Malays,Males,"Total",259110
+2015,Malays,Males,"Ang Mo Kio- Total",6430
+2015,Malays,Males,"Bedok- Total",21640
+2015,Malays,Males,"Bishan- Total",1790
+2015,Malays,Males,"Bukit Batok- Total",9690
+2015,Malays,Males,"Bukit Merah- Total",6730
+2015,Malays,Males,"Bukit Panjang- Total",11210
+2015,Malays,Males,"Bukit Timah- Total",310
+2015,Malays,Males,"Changi- Total",390
+2015,Malays,Males,"Choa Chu Kang- Total",14930
+2015,Malays,Males,"Clementi- Total",4930
+2015,Malays,Males,"Downtown Core- Total",10
+2015,Malays,Males,"Geylang- Total",7550
+2015,Malays,Males,"Hougang- Total",8810
+2015,Malays,Males,"Jurong East- Total",6800
+2015,Malays,Males,"Jurong West- Total",24480
+2015,Malays,Males,"Kallang- Total",4040
+2015,Malays,Males,"Mandai- Total",40
+2015,Malays,Males,"Marine Parade- Total",1690
+2015,Malays,Males,"Newton- Total",20
+2015,Malays,Males,"Novena- Total",1030
+2015,Malays,Males,"Orchard- Total",10
+2015,Malays,Males,"Outram- Total",990
+2015,Malays,Males,"Pasir Ris- Total",14120
+2015,Malays,Males,"Punggol- Total",7090
+2015,Malays,Males,"Queenstown- Total",4230
+2015,Malays,Males,"River Valley- Total",30
+2015,Malays,Males,"Rochor- Total",300
+2015,Malays,Males,"Sembawang- Total",5060
+2015,Malays,Males,"Sengkang- Total",11120
+2015,Malays,Males,"Serangoon- Total",2580
+2015,Malays,Males,"Singapore River- Total",10
+2015,Malays,Males,"Southern Islands- Total",10
+2015,Malays,Males,"Tampines- Total",27770
+2015,Malays,Males,"Tanglin- Total",80
+2015,Malays,Males,"Toa Payoh- Total",4910
+2015,Malays,Males,"Woodlands- Total",31360
+2015,Malays,Males,"Yishun- Total",16950
+2015,Malays,Females,"Total",261820
+2015,Malays,Females,"Ang Mo Kio- Total",6640
+2015,Malays,Females,"Bedok- Total",22340
+2015,Malays,Females,"Bishan- Total",1970
+2015,Malays,Females,"Bukit Batok- Total",9880
+2015,Malays,Females,"Bukit Merah- Total",6670
+2015,Malays,Females,"Bukit Panjang- Total",11020
+2015,Malays,Females,"Bukit Timah- Total",460
+2015,Malays,Females,"Changi- Total",330
+2015,Malays,Females,"Choa Chu Kang- Total",14690
+2015,Malays,Females,"Clementi- Total",5010
+2015,Malays,Females,"Downtown Core- Total",20
+2015,Malays,Females,"Geylang- Total",7730
+2015,Malays,Females,"Hougang- Total",8840
+2015,Malays,Females,"Jurong East- Total",6940
+2015,Malays,Females,"Jurong West- Total",24150
+2015,Malays,Females,"Kallang- Total",3940
+2015,Malays,Females,"Mandai- Total",60
+2015,Malays,Females,"Marine Parade- Total",1820
+2015,Malays,Females,"Newton- Total",40
+2015,Malays,Females,"Novena- Total",1080
+2015,Malays,Females,"Orchard- Total",10
+2015,Malays,Females,"Outram- Total",950
+2015,Malays,Females,"Pasir Ris- Total",14310
+2015,Malays,Females,"Punggol- Total",7390
+2015,Malays,Females,"Queenstown- Total",4490
+2015,Malays,Females,"River Valley- Total",60
+2015,Malays,Females,"Rochor- Total",330
+2015,Malays,Females,"Sembawang- Total",5260
+2015,Malays,Females,"Sengkang- Total",11460
+2015,Malays,Females,"Serangoon- Total",2590
+2015,Malays,Females,"Singapore River- Total",10
+2015,Malays,Females,"Southern Islands- Total",20
+2015,Malays,Females,"Tampines- Total",28240
+2015,Malays,Females,"Tanglin- Total",110
+2015,Malays,Females,"Toa Payoh- Total",5010
+2015,Malays,Females,"Woodlands- Total",30960
+2015,Malays,Females,"Yishun- Total",16990
+2015,Indians,Total,"Total",354950
+2015,Indians,Total,"Ang Mo Kio- Total",14150
+2015,Indians,Total,"Bedok- Total",25110
+2015,Indians,Total,"Bishan- Total",7000
+2015,Indians,Total,"Bukit Batok- Total",13730
+2015,Indians,Total,"Bukit Merah- Total",15120
+2015,Indians,Total,"Bukit Panjang- Total",10300
+2015,Indians,Total,"Bukit Timah- Total",3650
+2015,Indians,Total,"Changi- Total",470
+2015,Indians,Total,"Choa Chu Kang- Total",16470
+2015,Indians,Total,"Clementi- Total",7600
+2015,Indians,Total,"Downtown Core- Total",320
+2015,Indians,Total,"Geylang- Total",9900
+2015,Indians,Total,"Hougang- Total",18040
+2015,Indians,Total,"Jurong East- Total",9150
+2015,Indians,Total,"Jurong West- Total",27090
+2015,Indians,Total,"Kallang- Total",14460
+2015,Indians,Total,"Mandai- Total",240
+2015,Indians,Total,"Marine Parade- Total",6010
+2015,Indians,Total,"Museum- Total",40
+2015,Indians,Total,"Newton- Total",780
+2015,Indians,Total,"Novena- Total",4210
+2015,Indians,Total,"Orchard- Total",70
+2015,Indians,Total,"Outram- Total",1590
+2015,Indians,Total,"Pasir Ris- Total",11920
+2015,Indians,Total,"Punggol- Total",7720
+2015,Indians,Total,"Queenstown- Total",8000
+2015,Indians,Total,"River Valley- Total",1270
+2015,Indians,Total,"Rochor- Total",2960
+2015,Indians,Total,"Seletar- Total",40
+2015,Indians,Total,"Sembawang- Total",7190
+2015,Indians,Total,"Sengkang- Total",18200
+2015,Indians,Total,"Serangoon- Total",10740
+2015,Indians,Total,"Singapore River- Total",220
+2015,Indians,Total,"Southern Islands- Total",150
+2015,Indians,Total,"Sungei Kadut- Total",110
+2015,Indians,Total,"Tampines- Total",21560
+2015,Indians,Total,"Tanglin- Total",1930
+2015,Indians,Total,"Toa Payoh- Total",9290
+2015,Indians,Total,"Western Water Catchment- Total",90
+2015,Indians,Total,"Woodlands- Total",27810
+2015,Indians,Total,"Yishun- Total",20230
+2015,Indians,Males,"Total",182300
+2015,Indians,Males,"Ang Mo Kio- Total",7050
+2015,Indians,Males,"Bedok- Total",12880
+2015,Indians,Males,"Bishan- Total",3530
+2015,Indians,Males,"Bukit Batok- Total",7050
+2015,Indians,Males,"Bukit Merah- Total",7720
+2015,Indians,Males,"Bukit Panjang- Total",5260
+2015,Indians,Males,"Bukit Timah- Total",1760
+2015,Indians,Males,"Changi- Total",250
+2015,Indians,Males,"Choa Chu Kang- Total",8370
+2015,Indians,Males,"Clementi- Total",3820
+2015,Indians,Males,"Downtown Core- Total",180
+2015,Indians,Males,"Geylang- Total",5220
+2015,Indians,Males,"Hougang- Total",9310
+2015,Indians,Males,"Jurong East- Total",4800
+2015,Indians,Males,"Jurong West- Total",14420
+2015,Indians,Males,"Kallang- Total",7570
+2015,Indians,Males,"Mandai- Total",120
+2015,Indians,Males,"Marine Parade- Total",2930
+2015,Indians,Males,"Museum- Total",30
+2015,Indians,Males,"Newton- Total",390
+2015,Indians,Males,"Novena- Total",2150
+2015,Indians,Males,"Orchard- Total",30
+2015,Indians,Males,"Outram- Total",880
+2015,Indians,Males,"Pasir Ris- Total",6160
+2015,Indians,Males,"Punggol- Total",3960
+2015,Indians,Males,"Queenstown- Total",4040
+2015,Indians,Males,"River Valley- Total",590
+2015,Indians,Males,"Rochor- Total",1720
+2015,Indians,Males,"Seletar- Total",20
+2015,Indians,Males,"Sembawang- Total",3750
+2015,Indians,Males,"Sengkang- Total",9230
+2015,Indians,Males,"Serangoon- Total",5370
+2015,Indians,Males,"Singapore River- Total",120
+2015,Indians,Males,"Southern Islands- Total",70
+2015,Indians,Males,"Sungei Kadut- Total",60
+2015,Indians,Males,"Tampines- Total",11010
+2015,Indians,Males,"Tanglin- Total",920
+2015,Indians,Males,"Toa Payoh- Total",4710
+2015,Indians,Males,"Western Water Catchment- Total",40
+2015,Indians,Males,"Woodlands- Total",14480
+2015,Indians,Males,"Yishun- Total",10310
+2015,Indians,Females,"Total",172650
+2015,Indians,Females,"Ang Mo Kio- Total",7100
+2015,Indians,Females,"Bedok- Total",12230
+2015,Indians,Females,"Bishan- Total",3470
+2015,Indians,Females,"Bukit Batok- Total",6670
+2015,Indians,Females,"Bukit Merah- Total",7400
+2015,Indians,Females,"Bukit Panjang- Total",5040
+2015,Indians,Females,"Bukit Timah- Total",1900
+2015,Indians,Females,"Changi- Total",220
+2015,Indians,Females,"Choa Chu Kang- Total",8100
+2015,Indians,Females,"Clementi- Total",3780
+2015,Indians,Females,"Downtown Core- Total",140
+2015,Indians,Females,"Geylang- Total",4690
+2015,Indians,Females,"Hougang- Total",8720
+2015,Indians,Females,"Jurong East- Total",4350
+2015,Indians,Females,"Jurong West- Total",12670
+2015,Indians,Females,"Kallang- Total",6890
+2015,Indians,Females,"Mandai- Total",120
+2015,Indians,Females,"Marine Parade- Total",3080
+2015,Indians,Females,"Museum- Total",20
+2015,Indians,Females,"Newton- Total",390
+2015,Indians,Females,"Novena- Total",2060
+2015,Indians,Females,"Orchard- Total",40
+2015,Indians,Females,"Outram- Total",710
+2015,Indians,Females,"Pasir Ris- Total",5760
+2015,Indians,Females,"Punggol- Total",3760
+2015,Indians,Females,"Queenstown- Total",3950
+2015,Indians,Females,"River Valley- Total",680
+2015,Indians,Females,"Rochor- Total",1240
+2015,Indians,Females,"Seletar- Total",20
+2015,Indians,Females,"Sembawang- Total",3430
+2015,Indians,Females,"Sengkang- Total",8970
+2015,Indians,Females,"Serangoon- Total",5370
+2015,Indians,Females,"Singapore River- Total",100
+2015,Indians,Females,"Southern Islands- Total",70
+2015,Indians,Females,"Sungei Kadut- Total",50
+2015,Indians,Females,"Tampines- Total",10550
+2015,Indians,Females,"Tanglin- Total",1010
+2015,Indians,Females,"Toa Payoh- Total",4570
+2015,Indians,Females,"Western Water Catchment- Total",50
+2015,Indians,Females,"Woodlands- Total",13330
+2015,Indians,Females,"Yishun- Total",9920
+2015,Others,Total,"Total",126810
+2015,Others,Total,"Ang Mo Kio- Total",4270
+2015,Others,Total,"Bedok- Total",11780
+2015,Others,Total,"Bishan- Total",2720
+2015,Others,Total,"Bukit Batok- Total",3900
+2015,Others,Total,"Bukit Merah- Total",4710
+2015,Others,Total,"Bukit Panjang- Total",3210
+2015,Others,Total,"Bukit Timah- Total",5910
+2015,Others,Total,"Changi- Total",140
+2015,Others,Total,"Choa Chu Kang- Total",4790
+2015,Others,Total,"Clementi- Total",3390
+2015,Others,Total,"Downtown Core- Total",390
+2015,Others,Total,"Geylang- Total",3730
+2015,Others,Total,"Hougang- Total",4930
+2015,Others,Total,"Jurong East- Total",1970
+2015,Others,Total,"Jurong West- Total",6710
+2015,Others,Total,"Kallang- Total",2970
+2015,Others,Total,"Mandai- Total",70
+2015,Others,Total,"Marine Parade- Total",2590
+2015,Others,Total,"Museum- Total",110
+2015,Others,Total,"Newton- Total",1210
+2015,Others,Total,"Novena- Total",2830
+2015,Others,Total,"Orchard- Total",220
+2015,Others,Total,"Outram- Total",540
+2015,Others,Total,"Pasir Ris- Total",5640
+2015,Others,Total,"Punggol- Total",2670
+2015,Others,Total,"Queenstown- Total",3950
+2015,Others,Total,"River Valley- Total",1400
+2015,Others,Total,"Rochor- Total",530
+2015,Others,Total,"Seletar- Total",60
+2015,Others,Total,"Sembawang- Total",3330
+2015,Others,Total,"Sengkang- Total",5310
+2015,Others,Total,"Serangoon- Total",3310
+2015,Others,Total,"Singapore River- Total",620
+2015,Others,Total,"Southern Islands- Total",500
+2015,Others,Total,"Sungei Kadut- Total",30
+2015,Others,Total,"Tampines- Total",8200
+2015,Others,Total,"Tanglin- Total",2720
+2015,Others,Total,"Toa Payoh- Total",3510
+2015,Others,Total,"Western Water Catchment- Total",70
+2015,Others,Total,"Woodlands- Total",6380
+2015,Others,Total,"Yishun- Total",5510
+2015,Others,Males,"Total",59910
+2015,Others,Males,"Ang Mo Kio- Total",1890
+2015,Others,Males,"Bedok- Total",5690
+2015,Others,Males,"Bishan- Total",1320
+2015,Others,Males,"Bukit Batok- Total",1870
+2015,Others,Males,"Bukit Merah- Total",2130
+2015,Others,Males,"Bukit Panjang- Total",1480
+2015,Others,Males,"Bukit Timah- Total",2860
+2015,Others,Males,"Changi- Total",80
+2015,Others,Males,"Choa Chu Kang- Total",2310
+2015,Others,Males,"Clementi- Total",1590
+2015,Others,Males,"Downtown Core- Total",230
+2015,Others,Males,"Geylang- Total",1780
+2015,Others,Males,"Hougang- Total",2200
+2015,Others,Males,"Jurong East- Total",910
+2015,Others,Males,"Jurong West- Total",3160
+2015,Others,Males,"Kallang- Total",1390
+2015,Others,Males,"Mandai- Total",30
+2015,Others,Males,"Marine Parade- Total",1280
+2015,Others,Males,"Museum- Total",60
+2015,Others,Males,"Newton- Total",630
+2015,Others,Males,"Novena- Total",1340
+2015,Others,Males,"Orchard- Total",120
+2015,Others,Males,"Outram- Total",270
+2015,Others,Males,"Pasir Ris- Total",2720
+2015,Others,Males,"Punggol- Total",1170
+2015,Others,Males,"Queenstown- Total",1850
+2015,Others,Males,"River Valley- Total",710
+2015,Others,Males,"Rochor- Total",290
+2015,Others,Males,"Seletar- Total",30
+2015,Others,Males,"Sembawang- Total",1640
+2015,Others,Males,"Sengkang- Total",2380
+2015,Others,Males,"Serangoon- Total",1560
+2015,Others,Males,"Singapore River- Total",350
+2015,Others,Males,"Southern Islands- Total",280
+2015,Others,Males,"Sungei Kadut- Total",10
+2015,Others,Males,"Tampines- Total",3820
+2015,Others,Males,"Tanglin- Total",1360
+2015,Others,Males,"Toa Payoh- Total",1600
+2015,Others,Males,"Western Water Catchment- Total",30
+2015,Others,Males,"Woodlands- Total",3000
+2015,Others,Males,"Yishun- Total",2500
+2015,Others,Females,"Total",66900
+2015,Others,Females,"Ang Mo Kio- Total",2390
+2015,Others,Females,"Bedok- Total",6090
+2015,Others,Females,"Bishan- Total",1400
+2015,Others,Females,"Bukit Batok- Total",2030
+2015,Others,Females,"Bukit Merah- Total",2570
+2015,Others,Females,"Bukit Panjang- Total",1730
+2015,Others,Females,"Bukit Timah- Total",3050
+2015,Others,Females,"Changi- Total",60
+2015,Others,Females,"Choa Chu Kang- Total",2480
+2015,Others,Females,"Clementi- Total",1800
+2015,Others,Females,"Downtown Core- Total",160
+2015,Others,Females,"Geylang- Total",1950
+2015,Others,Females,"Hougang- Total",2720
+2015,Others,Females,"Jurong East- Total",1060
+2015,Others,Females,"Jurong West- Total",3550
+2015,Others,Females,"Kallang- Total",1580
+2015,Others,Females,"Mandai- Total",40
+2015,Others,Females,"Marine Parade- Total",1310
+2015,Others,Females,"Museum- Total",50
+2015,Others,Females,"Newton- Total",580
+2015,Others,Females,"Novena- Total",1480
+2015,Others,Females,"Orchard- Total",100
+2015,Others,Females,"Outram- Total",270
+2015,Others,Females,"Pasir Ris- Total",2920
+2015,Others,Females,"Punggol- Total",1500
+2015,Others,Females,"Queenstown- Total",2100
+2015,Others,Females,"River Valley- Total",690
+2015,Others,Females,"Rochor- Total",240
+2015,Others,Females,"Seletar- Total",30
+2015,Others,Females,"Sembawang- Total",1690
+2015,Others,Females,"Sengkang- Total",2930
+2015,Others,Females,"Serangoon- Total",1750
+2015,Others,Females,"Singapore River- Total",270
+2015,Others,Females,"Southern Islands- Total",220
+2015,Others,Females,"Sungei Kadut- Total",20
+2015,Others,Females,"Tampines- Total",4380
+2015,Others,Females,"Tanglin- Total",1360
+2015,Others,Females,"Toa Payoh- Total",1920
+2015,Others,Females,"Western Water Catchment- Total",40
+2015,Others,Females,"Woodlands- Total",3380
+2015,Others,Females,"Yishun- Total",3010

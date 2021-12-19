@@ -1,0 +1,105 @@
+# Metadata for Resident Population by Planning Area/Subzone, Ethnic Group and Sex, 2015
+---
+Identifier: 'dabd4510-3193-4947-9330-b9e474d886c0'
+Name: 'resident-population-by-planning-area-subzone-ethnic-group-and-sex-2015'
+Title: 'Resident Population by Planning Area/Subzone, Ethnic Group and Sex, 2015'
+Description: 'From 1995, the General Household Survey (GHS) is conducted in between
+  2 Population Censuses as a mid-decade mini-Census.'
+Topics:
+  - 'Society'
+Keywords:
+  - 'Ethnic Group'
+  - 'General Household Survey'
+  - 'Planning Area'
+  - 'Resident Population'
+  - 'Sex'
+  - 'Subzone'
+Publisher:
+  Name: 'Ministry of Trade and Industry - Department of Statistics'
+  Admin 1:
+    Name: 'SingStat Info'
+    Department: 'Statistics Information Services'
+    Email: 'info@singstat.gov.sg'
+Sources:
+  - 'Ministry of Trade and Industry - Department of Statistics'
+Source Url: 'http://www.tablebuilder.singstat.gov.sg/publicfacing/createSpecialTable.action?refId=8185&exportType=csv'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Other'
+Coverage: '2015-01-01 to 2015-12-31'
+Last Updated: '2019-08-01T03:23:58.546013'
+Resources:
+  -
+    Identifier: 'd683afc9-d1e6-45a1-8d51-073710b7daca'
+    Title: 'Resident Population by Planning Area, Ethnic Group and Sex'
+    Url: 'https://storage.data.gov.sg/resident-population-by-planning-area-subzone-ethnic-group-and-sex-2015/resources/resident-population-by-planning-area-ethnic-group-and-sex-2019-08-01T03-23-57Z.csv'
+    Format: 'CSV'
+    Coverage: '2015-01-01 to 2015-12-31'
+    Last Updated: '2019-08-01T03:23:57.754805'
+    Schema:
+      -
+        Name: 'year'
+        Title: 'Year'
+        Type: 'datetime'
+        Sub Type: 'year'
+        Format: 'YYYY'
+      -
+        Name: 'level_1'
+        Title: 'Ethnic Group'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'level_2'
+        Title: 'Sex'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'level_3'
+        Title: 'Planning Area'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'value'
+        Title: 'Value'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'Number'
+  -
+    Identifier: '08f521ae-c3c2-4c55-b69b-55c5d7671329'
+    Title: 'Resident Population by Subzone, Ethnic Group and Sex'
+    Url: 'https://storage.data.gov.sg/resident-population-by-planning-area-subzone-ethnic-group-and-sex-2015/resources/resident-population-by-subzone-ethnic-group-and-sex-2018-05-24T01-57-40Z.csv'
+    Format: 'CSV'
+    Coverage: '2015-01-01 to 2015-12-31'
+    Last Updated: '2018-05-24T01:57:40.259074'
+    Schema:
+      -
+        Name: 'year'
+        Title: 'Year'
+        Type: 'datetime'
+        Sub Type: 'year'
+        Format: 'YYYY'
+      -
+        Name: 'level_1'
+        Title: 'Ethnic Group'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'level_2'
+        Title: 'Sex'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'level_3'
+        Title: 'Planning Area'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'level_4'
+        Title: 'Subzone'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'value'
+        Title: 'Value'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'Number'

@@ -1,0 +1,37 @@
+# Metadata for Singapore Residents by Subzone and Type of Dwelling, June 2016
+---
+Identifier: '16782884-6865-43d3-931d-599e564c2f29'
+Name: 'singapore-residents-by-subzone-and-type-of-dwelling-june-2016'
+Title: 'Singapore Residents by Subzone and Type of Dwelling, June 2016'
+Description: 'Distribution of the resident population by planning area/subzone based
+  on URA MP14 and type of dwelling, Jun 2016'
+Topics:
+  - 'Society'
+Keywords:
+  - 'Singapore Residents by Planning Area'
+  - 'Subzone'
+  - 'Type of Dwelling'
+Publisher:
+  Name: 'Ministry of Trade and Industry - Department of Statistics'
+  Admin 1:
+    Name: 'Chow Miew Sum'
+    Department: 'Ministry of Trade and Industry - Department of Statistics'
+    Email: 'chow_miew_sum@singstat.gov.sg'
+Sources:
+  - 'Ministry of Trade and Industry - Department of Statistics'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Ad-hoc'
+Last Updated: '2016-12-09T04:00:39.739148'
+Resources:
+  -
+    Identifier: 'e34e13de-d734-4eed-abe5-44a551672097'
+    Title: 'Singapore Residents by Subzone and Type of Dwelling, June 2016 (KML)'
+    Url: 'https://geo.data.gov.sg/subzone-dwelling-type-2016/2016/09/22/kml/subzone-dwelling-type-2016.zip'
+    Format: 'KML'
+    Last Updated: '2016-09-21T16:00:00'
+  -
+    Identifier: 'b0bc607c-11dd-4a5b-9890-5b9836b54900'
+    Title: 'Singapore Residents by Subzone and Type of Dwelling, June 2016 (SHP)'
+    Url: 'https://geo.data.gov.sg/subzone-dwelling-type-2016/2016/09/22/shp/subzone-dwelling-type-2016.zip'
+    Format: 'SHP'
+    Last Updated: '2016-09-21T16:00:00'

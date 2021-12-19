@@ -1,0 +1,48 @@
+# Metadata for Master Plan 2019 Subzone Boundary (No Sea)
+---
+Identifier: 'c754450d-ecbd-4b7d-8dc1-c07ee842c6d1'
+Name: 'master-plan-2019-subzone-boundary-no-sea'
+Title: 'Master Plan 2019 Subzone Boundary (No Sea)'
+Description:
+  - 'Indicative polygon of subzone boundary.'
+  - ''
+  - 'To facilitate urban planning, the Urban Redevelopment Authority (URA) divides
+    Singapore into regions, planning areas and subzones.'
+  - ''
+  - 'The Planning Regions are divided into smaller Planning Areas. Each Planning Area
+    is further divided into smaller subzones which are usually centred around a focal
+    point such as neighbourhood centre or activity node.'
+  - ''
+  - 'The Master Plan is a forward looking guiding plan for Singapore''s development
+    in the medium term over the next 10 to 15 years and the planning boundaries may
+    not coincide with existing developments for some areas.'
+Topics:
+  - 'Infrastructure'
+Keywords:
+  - 'MP19 Subzone Boundary'
+  - 'MP2019 Subzone Boundary'
+  - 'Master Plan 2019 Planning Boundaries'
+Publisher:
+  Name: 'Urban Redevelopment Authority'
+  Admin 1:
+    Name: 'Pamela Poh'
+    Department: 'URBAN REDEVELOPMENT AUTHORITY'
+    Email: 'pamela_poh@ura.gov.sg'
+Sources:
+  - 'Urban Redevelopment Authority'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Ad-hoc'
+Last Updated: '2020-01-25T00:10:10.569108'
+Resources:
+  -
+    Identifier: '580e8e06-3428-496a-8a20-3439187c2174'
+    Title: 'Master Plan 2019 Subzone Boundary (No Sea) (KML)'
+    Url: 'https://geo.data.gov.sg/ura-mp19-subzone-no-sea-pl/2019/12/23/kml/ura-mp19-subzone-no-sea-pl.kml'
+    Format: 'KML'
+    Last Updated: '2019-12-22T16:00:00'
+  -
+    Identifier: '84b62d90-c1b7-4ada-acfc-f5874b5fd945'
+    Title: 'Master Plan 2019 Subzone Boundary (No Sea) (GEOJSON)'
+    Url: 'https://geo.data.gov.sg/ura-mp19-subzone-no-sea-pl/2019/12/23/geojson/ura-mp19-subzone-no-sea-pl.geojson'
+    Format: 'GeoJSON'
+    Last Updated: '2019-12-22T16:00:00'
